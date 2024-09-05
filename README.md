@@ -1,4 +1,4 @@
-# *Calculadora--de-ecuaciones-cubicas-de-estado--Proyecto-final-Paez-Torres-Leon*
+# *Calculadora--de-ecuaciones-cubicas-de-estado--Proyecto-final-Torres*
 En el momento de los análisis de un fluído, hay que tener en cuanta distintas propiedades las cuales afectarán el comportamiento e interacción en el ambiente en donde se requieran. El comportamiento con base a presión, volúmen y temperatura de éstas genera distintos cambios físicos que dan como resultado variación en sus propiedades termodinámicas. Es de vital importancia el conocer los puntos en los cuales un fluído se encuentre en estado líquido, gaseoso o un estado intermedio. Para ello, existen diferentes ecuaciones para la determinación de éstas propiedades, pero las más importantes son las denominadas **ECUACIONES CUBICAS DE ESTADO**. Las cuales otorgan valores aproximados a las propiedades del gas real.
 El objetivo es la realización de una calculadora, la cual ayude con la determinación de los diferentes puntos en los cuales uno pueda saber que el fluído está en diferentes estados de la materia. Ésto se basa en las diferentes ecuaciones y la comparación de ellas en las condiciones determinadas.
 
